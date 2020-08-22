@@ -1,0 +1,3 @@
+ O que o cliente precisa? 
+
+ inovarcar é uma empresa quer entrar no mercado fazendo viagens com carros voadores, precisamo de um sistema que faça cotação de viagens e que busque de um ponto ‘a’ até o ponto ‘b’ onde o  preço máximo a se pagar por viagem é de 10 dolares, também é necessário que no sistema exista formas de pagamentos. 

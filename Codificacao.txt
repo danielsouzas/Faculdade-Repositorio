@@ -1,0 +1,3 @@
+Quais linguagens vamos utilizar nesta plataforma?
+
+Para frontend utilizaremos o javascript e backhand python

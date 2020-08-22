@@ -1,0 +1,2 @@
+O programa totalmente web 
+ Utilizaremos as tecnologias css e JavaScript para melhor aparece-nos e design do programa e comodidade do usuário
