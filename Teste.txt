@@ -1,0 +1,11 @@
+
+ Realizaremos testes de ;
+ 
+ Funcional(caixa branca e preta)
+ Segurança
+ Performance
+ Aplicações
+ Teste de lógica
+ Usabilidade
+ Stress
+  

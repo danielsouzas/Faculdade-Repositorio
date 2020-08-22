@@ -1,0 +1,3 @@
+ Operação
+ como funcionará a parte operacional?
+ iremos implementar e acompanhar diariamente a performance do programa e resolver os bugs mais rápido possível onde terá atualizações junta a inteligência artificial para ter uma maior eficácia no produto 
